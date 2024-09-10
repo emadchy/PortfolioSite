@@ -9,17 +9,20 @@ const mywork_data = [
     {
         w_no:1,
         w_name:"Web design",
-        w_img:project1_img
+        w_img:project1_img,
+        link: "https://forkify-phi-one.vercel.app/"
     },
     {
         w_no:2,
         w_name:"Web design",
-        w_img:project2_img
+        w_img:project2_img,
+        link: "https://smartbrain-frontend-rust.vercel.app/"
     },
     {
         w_no:3,
         w_name:"Web design",
-        w_img:project3_img
+        w_img:project3_img,
+        link: "https://robofriends-sand.vercel.app/"
     },
     // {
     //     w_no:4,
